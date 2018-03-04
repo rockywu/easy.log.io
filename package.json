@@ -1,0 +1,23 @@
+{
+  "name": "easy.log.io",
+  "version": "1.0.0",
+  "description": "easy.log.io use fs and socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rockywu/easy.log.io.git"
+  },
+  "keywords": [
+    "tail",
+    "file"
+  ],
+  "author": "rockywu <wjl19890427@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rockywu/easy.log.io/issues"
+  },
+  "homepage": "https://github.com/rockywu/easy.log.io#readme"
+}
